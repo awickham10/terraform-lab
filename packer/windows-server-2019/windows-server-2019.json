@@ -1,0 +1,6 @@
+{
+    "vm-name": "windows-server-2019-core-template",
+    "os-iso-path": "[datastore-local] iso/windows-server/SW_DVD9_Win_Server_STD_CORE_2019_64Bit_English_DC_STD_MLF_X21-96581.ISO",
+    "guest-os-type": "windows9Server64Guest",
+    "autounattend-file": "windows-server-2019/autounattend.xml"
+}
